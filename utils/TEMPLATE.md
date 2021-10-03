@@ -34,14 +34,14 @@ I am passionate of cutting edge web development tech. My goal is to write perfec
 
 ## 🤟🏼 My Github Activity
 
--   Joined Github: **`6`** years ago
--   Pushed `**2008**` commits
--   Opened `**32** issues
--   Submitted **82** pull requests
--   Received **2** stars
--   Own **25** repositories
--   Contributed to **5** public repositories
+-   Joined Github: **`{{ ACCOUNT_AGE }}`** years ago
+-   Pushed `**{{ COMMITS }}**` commits
+-   Opened `**{{ ISSUES }}** issues
+-   Submitted **{{ PULL_REQUESTS }}** pull requests
+-   Received **{{ STARS }}** stars
+-   Own **{{ REPOSITORIES }}** repositories
+-   Contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories
 
 ## 📊 Top 8 most used languages across my repositories:
 
- ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B174.3%25)  ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B119.7%25)  ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B12.5%25)  ![SCSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23c6538c&message=SCSS%EF%B8%B12%25)  ![Shell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2389e051&message=Shell%EF%B8%B10.9%25)  ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B10.2%25)  ![Vim Script](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23199f4b&message=Vim%20Script%EF%B8%B10%25) 
+{{ LANGUAGE_TEMPLATE_START }} ![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25) {{ LANGUAGE_TEMPLATE_END }}
