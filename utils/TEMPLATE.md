@@ -35,12 +35,12 @@ I am passionate of cutting edge web development tech. My goal is to write perfec
 ## 🤟🏼 My Github Activity
 
 -   Joined Github: **`{{ ACCOUNT_AGE }}`** years ago
--   Pushed `**{{ COMMITS }}**` commits
--   Opened `**{{ ISSUES }}** issues
--   Submitted **{{ PULL_REQUESTS }}** pull requests
--   Received **{{ STARS }}** stars
--   Own **{{ REPOSITORIES }}** repositories
--   Contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories
+-   Pushed **`{{ COMMITS }}`** commits
+-   Opened **`{{ ISSUES }}`** issues
+-   Submitted **`{{ PULL_REQUESTS }}`** pull requests
+-   Received **`{{ STARS }}`** stars
+-   Own **`{{ REPOSITORIES }}`** repositories
+-   Contributed to **`{{ REPOSITORIES_CONTRIBUTED_TO }}`** public repositories
 
 ## 📊 Top 8 most used languages across my repositories:
 
