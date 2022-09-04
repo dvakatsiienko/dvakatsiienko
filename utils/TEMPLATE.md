@@ -34,7 +34,7 @@ I am passionate of cutting edge web development tech. My goal is to write perfec
 
 ## 🤟🏼 My Github Activity
 
--   Joined Github: **`{{ ACCOUNT_AGE }}`** years ago
+-   Joined Github **`{{ ACCOUNT_AGE }}`** years ago
 -   Pushed **`{{ COMMITS }}`** commits
 -   Opened **`{{ ISSUES }}`** issues
 -   Submitted **`{{ PULL_REQUESTS }}`** pull requests
