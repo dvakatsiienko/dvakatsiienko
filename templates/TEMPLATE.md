@@ -8,6 +8,16 @@ I am passionate of cutting edge web development tech. My goal is to write perfec
 -   😄 Pronouns: **D I M A**
 -   ⚡ Fun fact: interestingly, there is also a lot of oxygen on Venus and Mars, which is perhaps not surprising, since they are the closest planets to Earth and probably formed in similar conditions. In their cases, however, most of the oxygen is there in the form of carbon dioxide.
 
+## 🤟🏼 My Github Activity
+
+-   Joined Github **`{{ ACCOUNT_AGE }}`** years ago
+-   Pushed **`{{ COMMITS }}`** commits
+-   Opened **`{{ ISSUES }}`** issues
+-   Submitted **`{{ PULL_REQUESTS }}`** pull requests
+-   Received **`{{ STARS }}`** stars
+-   Own **`{{ REPOSITORIES }}`** repositories
+-   Contributed to **`{{ REPOSITORIES_CONTRIBUTED_TO }}`** public repositories
+
 ## ⚡ Tech that I'm skilled in
 
 ###### Core
@@ -31,16 +41,6 @@ I am passionate of cutting edge web development tech. My goal is to write perfec
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel) ![Railway](https://img.shields.io/badge/-Railway-black?style=flat&logo=railway) ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku) ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat&logo=digitalocean) ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazon-aws) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat&logo=google-cloud) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github) ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab) ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvakatsiienko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🤟🏼 My Github Activity
-
--   Joined Github **`{{ ACCOUNT_AGE }}`** years ago
--   Pushed **`{{ COMMITS }}`** commits
--   Opened **`{{ ISSUES }}`** issues
--   Submitted **`{{ PULL_REQUESTS }}`** pull requests
--   Received **`{{ STARS }}`** stars
--   Own **`{{ REPOSITORIES }}`** repositories
--   Contributed to **`{{ REPOSITORIES_CONTRIBUTED_TO }}`** public repositories
 
 ## 📊 Top 8 most used languages across my repositories:
 
