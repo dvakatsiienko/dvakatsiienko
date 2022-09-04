@@ -21,7 +21,7 @@ jobs:
               uses: teoxoy/profile-readme-stats@v1
               with:
                   token: ${{ secrets.USER_TOKEN }}
-                  template: './utils/TEMPLATE.md'
+                  template: './templates/TEMPLATE.md'
 
             - name: Update README.md
               run: |
