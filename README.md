@@ -34,8 +34,8 @@ I am passionate of cutting edge web development tech. My goal is to write perfec
 
 ## 🤟🏼 My Github Activity
 
--   Joined Github: **`6`** years ago
--   Pushed **`1947`** commits
+-   Joined Github **`6`** years ago
+-   Pushed **`1949`** commits
 -   Opened **`32`** issues
 -   Submitted **`82`** pull requests
 -   Received **`2`** stars
