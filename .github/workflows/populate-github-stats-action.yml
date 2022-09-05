@@ -30,6 +30,6 @@ jobs:
                   git config user.name github-stats-populator-bot
                   git config user.email imagnum.satellite@gmail.com
                   git add .
-                  git commit -m "Populate README.md with updated Github stats"
+                  git commit -m "chore(docs): populate README.md with updated Github stats"
                   git push
                   fi
