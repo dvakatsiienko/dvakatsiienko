@@ -22,6 +22,7 @@ jobs:
               with:
                   token: ${{ secrets.USER_TOKEN }}
                   template: './templates/TEMPLATE.md'
+                  readme: './README.md'
 
             - name: Update README.md
               run: |
