@@ -2,29 +2,30 @@
 name: Populate README.md with Github Stats
 
 on:
+    workflow_dispatch: # adds a button to execute workflow manually
     schedule:
-        - cron: '0 0 * * 0' # every week
-    push:
+        - cron: '0 0 * * 0' # auto-run every week
+    push: # execute workflow on every push
         branches:
-            - main
+            - main # execute workflow on main branch
 
 jobs:
     run-pupulate-readme-stats:
         runs-on: ubuntu-latest
 
         steps:
-            - uses: actions/checkout@v3
+            - uses: actions/checkout@v3 # an action that checks out the repository
               with:
-                  fetch-depth: 0
+                  fetch-depth: 0 # checkout full commit history
 
             - name: Generate README.md
-              uses: teoxoy/profile-readme-stats@v1
+              uses: teoxoy/profile-readme-stats@v1 # an action that gets your Github stats and generates readme file using a template
               with:
-                  token: ${{ secrets.USER_TOKEN }}
-                  template: './templates/TEMPLATE.md'
-                  readme: './README.md'
+                  token: ${{ secrets.USER_TOKEN }} # picked up automatically
+                  template: './templates/TEMPLATE.md' # path to template, you need to create it manually
+                  readme: './README.md' # path to actual generated README.md, that will be used in your profile
 
-            - name: Update README.md
+            - name: Commit updated Github stats # commits an updated stats
               run: |
                   if [[ "$(git status --porcelain)" != "" ]]; then
                   git config user.name github-stats-populator-bot
