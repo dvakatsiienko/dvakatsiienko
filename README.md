@@ -1,6 +1,6 @@
 ## 🙌🏼 Hi there
 
-I am passionate of cutting edge web development tech. My goal is to write perfect code and develop top notch web apps of the future.
+I am a passionate web developer. My goal is to write perfect code and develop top notch web apps using cutting edge tech of the future.
 
 -   👯 I’m looking to collaborate on an interesting and passionate project that aimed to help people
 -   🤔 I can help you to pick and connect cutting edge technologies that will make your product happy
@@ -11,12 +11,14 @@ I am passionate of cutting edge web development tech. My goal is to write perfec
 ## 🤟🏼 My Github Activity
 
 -   Joined Github **`6`** years ago
--   Pushed **`2118`** commits
+-   Pushed **`1918`** commits
 -   Opened **`37`** issues
--   Submitted **`122`** pull requests
--   Received **`3`** stars
--   Own **`27`** repositories
+-   Submitted **`121`** pull requests
+-   Received **`2`** stars
+-   Own **`19`** repositories
 -   Contributed to **`6`** public repositories
+
+> Stats are populated by [Profile Stats Github Action](https://github.com/marketplace/actions/profile-readme-stats).
 
 ## ⚡ Tech that I'm skilled in
 
