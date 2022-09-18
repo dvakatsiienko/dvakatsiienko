@@ -1,6 +1,6 @@
 ## 🙌🏼 Hi there
 
-I am a passionate web developer. My goal is to write perfect code and develop top notch web apps using cutting edge tech of the future.
+I am a passionate developer. My goal is to write perfect code and to deliver top notch web apps using cutting edge tech from the future.
 
 -   👯 I’m looking to collaborate on an interesting and passionate project that aimed to help people
 -   🤔 I can help you to pick and connect cutting edge technologies that will make your product happy
