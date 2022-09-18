@@ -11,12 +11,12 @@ I am passionate of cutting edge web development tech. My goal is to write perfec
 ## 🤟🏼 My Github Activity
 
 -   Joined Github **`6`** years ago
--   Pushed **`2053`** commits
--   Opened **`32`** issues
--   Submitted **`106`** pull requests
+-   Pushed **`2118`** commits
+-   Opened **`37`** issues
+-   Submitted **`122`** pull requests
 -   Received **`3`** stars
--   Own **`26`** repositories
--   Contributed to **`4`** public repositories
+-   Own **`27`** repositories
+-   Contributed to **`6`** public repositories
 
 ## ⚡ Tech that I'm skilled in
 
