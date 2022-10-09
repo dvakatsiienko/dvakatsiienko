@@ -11,11 +11,11 @@ I am a passionate developer. My goal is to write perfect code and to deliver top
 ## 🤟🏼 My Github Activity
 
 -   Joined Github **`6`** years ago
--   Pushed **`2025`** commits
+-   Pushed **`2026`** commits
 -   Opened **`40`** issues
 -   Submitted **`122`** pull requests
 -   Received **`4`** stars
--   Own **`21`** repositories
+-   Own **`20`** repositories
 -   Contributed to **`8`** public repositories
 
 > Stats are populated by [Profile Stats Github Action](https://github.com/marketplace/actions/profile-readme-stats).
