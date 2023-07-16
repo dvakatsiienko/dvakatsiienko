@@ -11,9 +11,9 @@ I am a passionate developer. My goal is to write perfect code and to deliver top
 ## 🤟🏼 My Github Activity
 
 -   Joined Github **`7`** years ago
--   Pushed **`2142`** commits
+-   Pushed **`2250`** commits
 -   Opened **`57`** issues
--   Submitted **`167`** pull requests
+-   Submitted **`179`** pull requests
 -   Received **`2`** stars
 -   Own **`6`** repositories
 -   Contributed to **`17`** public repositories
