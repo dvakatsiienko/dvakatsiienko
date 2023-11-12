@@ -10,8 +10,8 @@ I am a passionate developer. My goal is to write perfect code and to deliver top
 
 ## 🤟🏼 My Github Activity
 
--   Joined Github **`7`** years ago
--   Pushed **`2891`** commits
+-   Joined Github **`8`** years ago
+-   Pushed **`2892`** commits
 -   Opened **`58`** issues
 -   Submitted **`264`** pull requests
 -   Received **`2`** stars
