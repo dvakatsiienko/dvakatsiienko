@@ -12,7 +12,7 @@ I follow conferences like [React Conf](https://conf.react.dev/), [React Miami](h
 ## 🤟🏼 My Github Activity
 
 -   Joined Github **`9`** years ago
--   Pushed **`1619`** commits
+-   Pushed **`1621`** commits
 -   Opened **`41`** issues
 -   Submitted **`84`** pull requests
 -   Received **`2`** stars
@@ -29,7 +29,7 @@ I follow conferences like [React Conf](https://conf.react.dev/), [React Miami](h
 ![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-white?style=flat&logo=nextdotjs&logoColor=black)
-![Vite](https://img.shields.io/badge/-Vite-white?style=flat&logo=vite)
+![Vite](https://img.shields.io/badge/-Vite-161619?style=flat&logo=vite)
 ![tailwind](https://img.shields.io/badge/-Tailwind-white?style=flat&logo=tailwindcss&logoColor=06B6D4)
 ![styled-components](https://img.shields.io/badge/-Styled--Components-bf4080?style=flat&logo=styledcomponents&logoColor=f5da55)
 ![Sass](https://img.shields.io/badge/-Sass-bf4080?style=flat&logo=sass&logoColor=white)
