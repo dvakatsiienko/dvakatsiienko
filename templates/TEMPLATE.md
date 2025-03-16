@@ -56,9 +56,9 @@ I follow conferences like [React Conf](https://conf.react.dev/), [React Miami](h
 
 ### AI
 
-![Perplexity](https://img.shields.io/badge/-Perplexity-161619?style=flat&logo=perplexity)
-![Claude](https://img.shields.io/badge/-Claude-161619?style=flat&logo=claude)
-![Gemini](https://img.shields.io/badge/-Gemini-161619?style=flat&logo=googlegemini)
+![Perplexity](https://img.shields.io/badge/-Perplexity-white?style=flat&logo=perplexity)
+![Claude](https://img.shields.io/badge/-Claude-white?style=flat&logo=claude)
+![Gemini](https://img.shields.io/badge/-Gemini-white?style=flat&logo=googlegemini)
 ![Open AI](https://img.shields.io/badge/-Open_AI-161619?style=flat&logo=openai)
 
 
