@@ -89,7 +89,7 @@ I follow conferences like [React Conf](https://conf.react.dev/), [React Miami](h
 
 ### Hosting and deployment
 
-![GitHub](https://img.shields.io/badge/-GitHub-white?style=flat&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-161619?style=flat&logo=github)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel)
 ![Railway](https://img.shields.io/badge/-Railway-black?style=flat&logo=railway)
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-white?style=flat&logo=amazon)
