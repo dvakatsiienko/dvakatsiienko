@@ -66,6 +66,8 @@ I follow conferences like [React Conf](https://conf.react.dev/), [React Miami](h
 ![Drizzle](https://img.shields.io/badge/-Drizzle-black?style=flat&logo=drizzle)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=flat&logo=mongodb)
 ![SQLite](https://img.shields.io/badge/SQLite-black?style=flat&logo=sqlite)
+![Sanity](https://img.shields.io/badge/-Sanity-white?style=flat&logo=sanity)
+![Contentful](https://img.shields.io/badge/-Contentful-white?style=flat&logo=contentful)
 ![Strapi](https://img.shields.io/badge/-Strapi-white?style=flat&logo=strapi&logoColor=8c4bff)
 
 ###### Transport
