@@ -81,7 +81,7 @@ I follow conferences like [React Conf](https://conf.react.dev/), [React Miami](h
 
 ### IO
 
-![react-query](https://img.shields.io/badge/-React_Query-161619?style=flat&logo=reactquery)
+![react-query](https://img.shields.io/badge/-React_Query-white?style=flat&logo=reactquery)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql)
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat&logo=apollo-graphql)
 ![express](https://img.shields.io/badge/-express-white?style=flat&logo=express&logoColor=black)
