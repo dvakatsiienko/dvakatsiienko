@@ -67,7 +67,7 @@ I follow conferences like [React Conf](https://conf.react.dev/), [React Miami](h
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
 ![Radix UI](https://img.shields.io/badge/-Radix_UI-white?style=flat&logo=radixui&logoColor=161618)
 ![Headless UI](https://img.shields.io/badge/-Headless_UI-161619?style=flat&logo=headlessui)
-![chadcn/ui](https://img.shields.io/badge/-chadcn/ui-white?style=flat&logo=shadcnui)
+![chadcn/ui](https://img.shields.io/badge/-chadcn/ui-161619?style=flat&logo=shadcnui)
 
 ### ORM, Database, CMS
 
