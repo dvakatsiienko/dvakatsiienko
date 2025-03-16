@@ -1,17 +1,18 @@
 ## 🙌🏼 Hi there
+I am a passionate Frontend engineer who cares about cutting-edge tech and smart solutions. I am a big fan of **React**, **Next.js**, and **TypeScript**, and I am always looking for new ways to improve my skills. My goal is to write high-quality code and deliver top-notch web apps from the future.
 
-I am a passionate developer. My goal is to write perfect code and to deliver top notch web apps using cutting edge tech from the future.
+I follow conferences like [React Conf](https://conf.react.dev/), [React Miami](https://www.reactmiami.com/), and [Vercel Ship](https://vercel.com/ship) among others.
 
--   👯 I’m looking to collaborate on an interesting and passionate project that aimed to help people
--   🤔 I can help you to pick and connect cutting edge technologies that will make your product happy
--   💬 Ask me about anything 🙂
+-   ⚡ I excel at selecting and integrating cutting-edge technologies to enhance product performance.
+-   🌍 I’m looking to collaborate on interesting and passionate projects aimed at helping people.
+-   💬 Feel free to ask me anything 🙂
 -   😄 Pronouns: **D I M A**
--   ⚡ Fun fact: interestingly, there is also a lot of oxygen on Venus and Mars, which is perhaps not surprising, since they are the closest planets to Earth and probably formed in similar conditions. In their cases, however, most of the oxygen is there in the form of carbon dioxide.
+-   🪐 Fun fact: Interestingly, there is also a lot of oxygen on Venus and Mars, which is perhaps not surprising since they are the closest planets to Earth and probably formed under similar conditions. However, most of the oxygen there is in the form of carbon dioxide.
 
 ## 🤟🏼 My Github Activity
 
 -   Joined Github **`9`** years ago
--   Pushed **`1576`** commits
+-   Pushed **`1582`** commits
 -   Opened **`41`** issues
 -   Submitted **`84`** pull requests
 -   Received **`2`** stars
@@ -24,7 +25,7 @@ I am a passionate developer. My goal is to write perfect code and to deliver top
 
 ###### Core
 
-![ESNext](<https://img.shields.io/badge/-JavaScript_(ESNext)-f5da55?style=flat&logo=javascript&logoColor=black>) ![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript) ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-white?style=flat&logo=nextdotjs&logoColor=black) ![Gatsby.js](https://img.shields.io/badge/-Gatsby.js-542c85?style=flat&logo=gatsby) ![styled-components](https://img.shields.io/badge/-styled--components-bf4080?style=flat&logo=styledcomponents&logoColor=f5da55) ![Sass](https://img.shields.io/badge/-Sass-bf4080?style=flat&logo=sass&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-white?style=flat&logo=visualstudiocode&logoColor=1572B6) ![Vim](https://img.shields.io/badge/-Vim-white?style=flat&logo=vim&logoColor=007f00) ![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat&logo=webpack) ![Babel](https://img.shields.io/badge/-Babel-black?style=flat&logo=Babel&logoColor=f5da55) ![Redux](https://img.shields.io/badge/-Redux-764abc?style=flat&logo=redux) ![Jest](https://img.shields.io/badge/-Jest-white?style=flat&logo=jest&logoColor=e13238) ![Node](https://img.shields.io/badge/-Node-white?style=flat&logo=nodedotjs) ![npm](https://img.shields.io/badge/-npm-white?style=flat&logo=npm) ![pnpm](https://img.shields.io/badge/-pnpm-white?style=flat&logo=pnpm) ![semver](https://img.shields.io/badge/-semver-white?style=flat&logo=semver&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) ![ESLint](https://img.shields.io/badge/-ESLint-white?style=flat&logo=eslint&logoColor=4B32C3) ![Stylelint](https://img.shields.io/badge/-Stylelint-white?style=flat&logo=stylelint&logoColor=black) ![Prettier](https://img.shields.io/badge/-Prettier-black?style=flat&logo=prettier) ![Git](https://img.shields.io/badge/-Git-white?style=flat&logo=git) ![iterm2](https://img.shields.io/badge/-iterm2-black?style=flat&logo=iterm2)
+![ESNext](<https://img.shields.io/badge/-JavaScript_(ESNext)-f5da55?style=flat&logo=javascript&logoColor=black>) ![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript) ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-white?style=flat&logo=nextdotjs&logoColor=black) ![Vite](https://img.shields.io/badge/-Vite-542c85?style=flat&logo=vite) ![styled-components](https://img.shields.io/badge/-styled--components-bf4080?style=flat&logo=styledcomponents&logoColor=f5da55) ![Sass](https://img.shields.io/badge/-Sass-bf4080?style=flat&logo=sass&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-white?style=flat&logo=visualstudiocode&logoColor=1572B6) ![Vim](https://img.shields.io/badge/-Vim-white?style=flat&logo=vim&logoColor=007f00) ![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat&logo=webpack) ![Babel](https://img.shields.io/badge/-Babel-black?style=flat&logo=Babel&logoColor=f5da55) ![Redux](https://img.shields.io/badge/-Redux-764abc?style=flat&logo=redux) ![Jest](https://img.shields.io/badge/-Jest-white?style=flat&logo=jest&logoColor=e13238) ![Node](https://img.shields.io/badge/-Node-white?style=flat&logo=nodedotjs) ![npm](https://img.shields.io/badge/-npm-white?style=flat&logo=npm) ![pnpm](https://img.shields.io/badge/-pnpm-white?style=flat&logo=pnpm) ![semver](https://img.shields.io/badge/-semver-white?style=flat&logo=semver&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) ![ESLint](https://img.shields.io/badge/-ESLint-white?style=flat&logo=eslint&logoColor=4B32C3) ![Stylelint](https://img.shields.io/badge/-Stylelint-white?style=flat&logo=stylelint&logoColor=black) ![Prettier](https://img.shields.io/badge/-Prettier-black?style=flat&logo=prettier) ![Git](https://img.shields.io/badge/-Git-white?style=flat&logo=git) ![iterm2](https://img.shields.io/badge/-iterm2-black?style=flat&logo=iterm2)
 
 ###### UI/UX
 
