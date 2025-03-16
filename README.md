@@ -12,7 +12,7 @@ I follow conferences like [React Conf](https://conf.react.dev/), [React Miami](h
 ## 🤟🏼 My Github Activity
 
 -   Joined Github **`9`** years ago
--   Pushed **`1623`** commits
+-   Pushed **`1625`** commits
 -   Opened **`41`** issues
 -   Submitted **`84`** pull requests
 -   Received **`2`** stars
@@ -53,6 +53,14 @@ I follow conferences like [React Conf](https://conf.react.dev/), [React Miami](h
 ![Prettier](https://img.shields.io/badge/-Prettier-black?style=flat&logo=prettier)
 ![Git](https://img.shields.io/badge/-Git-white?style=flat&logo=git)
 ![iterm2](https://img.shields.io/badge/-iterm2-black?style=flat&logo=iterm2)
+
+###### ai
+
+![Perplexity](https://img.shields.io/badge/-Perplexity-white?style=flat&logo=perplexity)
+![Claude](https://img.shields.io/badge/-Claude-white?style=flat&logo=claude)
+![Gemini](https://img.shields.io/badge/-Gemini-white?style=flat&logo=googlegemini)
+![Open AI](https://img.shields.io/badge/-Open_AI-white?style=flat&logo=openai)
+
 
 ###### UI/UX
 
