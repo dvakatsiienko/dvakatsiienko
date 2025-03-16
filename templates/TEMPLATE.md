@@ -1,12 +1,13 @@
 ## 🙌🏼 Hi there
+I am a passionate Frontend engineer who cares about cutting-edge tech and smart solutions. I am a big fan of React, Next.js, and TypeScript, and I am always looking for new ways to improve my skills. My goal is to write high-quality code and deliver top-notch web apps from the future.
 
-I am a passionate developer. My goal is to write perfect code and to deliver top notch web apps using cutting edge tech from the future.
+I follow conferences like [React Conf](https://conf.react.dev/), [React Miami](https://www.reactmiami.com/), and [Vercel Ship](https://vercel.com/ship) among others.
 
--   👯 I’m looking to collaborate on an interesting and passionate project that aimed to help people
--   🤔 I can help you to pick and connect cutting edge technologies that will make your product happy
--   💬 Ask me about anything 🙂
+-   ⚡ I excel at selecting and integrating cutting-edge technologies to enhance product performance.
+-   🌍 I’m looking to collaborate on interesting and passionate projects aimed at helping people.
+-   💬 Feel free to ask me anything 🙂
 -   😄 Pronouns: **D I M A**
--   ⚡ Fun fact: interestingly, there is also a lot of oxygen on Venus and Mars, which is perhaps not surprising, since they are the closest planets to Earth and probably formed in similar conditions. In their cases, however, most of the oxygen is there in the form of carbon dioxide.
+-   🪐 Fun fact: Interestingly, there is also a lot of oxygen on Venus and Mars, which is perhaps not surprising since they are the closest planets to Earth and probably formed under similar conditions. However, most of the oxygen there is in the form of carbon dioxide.
 
 ## 🤟🏼 My Github Activity
 
@@ -17,6 +18,14 @@ I am a passionate developer. My goal is to write perfect code and to deliver top
 -   Received **`{{ STARS }}`** stars
 -   Own **`{{ REPOSITORIES }}`** repositories
 -   Contributed to **`{{ REPOSITORIES_CONTRIBUTED_TO }}`** public repositories
+
+## TEST
+- Code reviews **`{{ CODE_REVIEWS }}`**
+- Gists **`{{ GISTS }}`**
+- Repos contributed to **`{{ REPOSITORIES_CONTRIBUTED_TO }}`**
+- Total number of stars on all your gists and repositories **`{{ STARS }}`**
+- Total number of stars on all your gists and repositories **`{{ STARS }}`**
+
 
 > Stats are populated by [Profile Stats Github Action](https://github.com/marketplace/actions/profile-readme-stats).
 

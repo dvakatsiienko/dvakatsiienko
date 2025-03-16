@@ -14,12 +14,12 @@ jobs:
         runs-on: ubuntu-latest
 
         steps:
-            - uses: actions/checkout@v3 # an action that checks out the repository
+            - uses: actions/checkout@v4 # an action that checks out the repository
               with:
                   fetch-depth: 0 # checkout full commit history
 
             - name: Generate README.md
-              uses: teoxoy/profile-readme-stats@v1 # an action that gets your Github stats and generates readme file using a template
+              uses: teoxoy/profile-readme-stats@v3 # an action that gets your Github stats and generates readme file using a template
               with:
                   token: ${{ secrets.USER_TOKEN }} # picked up automatically
                   template: './templates/TEMPLATE.md' # path to template, you need to create it manually
