@@ -12,7 +12,7 @@ I follow conferences like [React Conf](https://conf.react.dev/), [React Miami](h
 ## 🤟🏼 My Github Activity
 
 -   Joined Github **`9`** years ago
--   Pushed **`1641`** commits
+-   Pushed **`1643`** commits
 -   Opened **`41`** issues
 -   Submitted **`84`** pull requests
 -   Received **`2`** stars
@@ -93,7 +93,7 @@ I follow conferences like [React Conf](https://conf.react.dev/), [React Miami](h
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel)
 ![Railway](https://img.shields.io/badge/-Railway-black?style=flat&logo=railway)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazon-aws)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab)
+![GitLab](https://img.shields.io/badge/-GitLab-161619?style=flat&logo=gitlab)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvakatsiienko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
