@@ -12,7 +12,7 @@ I follow conferences like [React Conf](https://conf.react.dev/), [React Miami](h
 ## 🤟🏼 My Github Activity
 
 -   Joined Github **`9`** years ago
--   Pushed **`1625`** commits
+-   Pushed **`1627`** commits
 -   Opened **`41`** issues
 -   Submitted **`84`** pull requests
 -   Received **`2`** stars
@@ -68,7 +68,7 @@ I follow conferences like [React Conf](https://conf.react.dev/), [React Miami](h
 ![Radix UI](https://img.shields.io/badge/-Radix_UI-white?style=flat&logo=radixui&logoColor=161618)
 ![Headless UI](https://img.shields.io/badge/-Headless_UI-161619?style=flat&logo=headlessui)
 
-###### Database, ORM, CMS
+###### ORM, Database, CMS
 
 ![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat&logo=prisma)
 ![Drizzle](https://img.shields.io/badge/-Drizzle-black?style=flat&logo=drizzle)
