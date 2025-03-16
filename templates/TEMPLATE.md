@@ -23,7 +23,7 @@ I follow conferences like [React Conf](https://conf.react.dev/), [React Miami](h
 
 ## ⚡ Tech that I'm skilled in
 
-###### Core
+##### Core
 
 ![ESNext](<https://img.shields.io/badge/-JavaScript_(ESNext)-f5da55?style=flat&logo=javascript&logoColor=black>)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript)
@@ -54,7 +54,7 @@ I follow conferences like [React Conf](https://conf.react.dev/), [React Miami](h
 ![Git](https://img.shields.io/badge/-Git-white?style=flat&logo=git)
 ![iterm2](https://img.shields.io/badge/-iterm2-black?style=flat&logo=iterm2)
 
-###### ai
+##### ai
 
 ![Perplexity](https://img.shields.io/badge/-Perplexity-white?style=flat&logo=perplexity)
 ![Claude](https://img.shields.io/badge/-Claude-white?style=flat&logo=claude)
@@ -62,7 +62,7 @@ I follow conferences like [React Conf](https://conf.react.dev/), [React Miami](h
 ![Open AI](https://img.shields.io/badge/-Open_AI-white?style=flat&logo=openai)
 
 
-###### UI/UX
+##### UI/UX
 
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
 ![Radix UI](https://img.shields.io/badge/-Radix_UI-white?style=flat&logo=radixui&logoColor=161618)
