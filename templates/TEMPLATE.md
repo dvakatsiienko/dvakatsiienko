@@ -1,5 +1,5 @@
 ## 🙌🏼 Hi there
-I am a passionate Frontend engineer who cares about cutting-edge tech and smart solutions. I am a big fan of React, Next.js, and TypeScript, and I am always looking for new ways to improve my skills. My goal is to write high-quality code and deliver top-notch web apps from the future.
+I am a passionate Frontend engineer who cares about cutting-edge tech and smart solutions. I am a big fan of **React**, **Next.js**, and **TypeScript**, and I am always looking for new ways to improve my skills. My goal is to write high-quality code and deliver top-notch web apps from the future.
 
 I follow conferences like [React Conf](https://conf.react.dev/), [React Miami](https://www.reactmiami.com/), and [Vercel Ship](https://vercel.com/ship) among others.
 
@@ -18,14 +18,6 @@ I follow conferences like [React Conf](https://conf.react.dev/), [React Miami](h
 -   Received **`{{ STARS }}`** stars
 -   Own **`{{ REPOSITORIES }}`** repositories
 -   Contributed to **`{{ REPOSITORIES_CONTRIBUTED_TO }}`** public repositories
-
-## TEST
-- Code reviews **`{{ CODE_REVIEWS }}`**
-- Gists **`{{ GISTS }}`**
-- Repos contributed to **`{{ REPOSITORIES_CONTRIBUTED_TO }}`**
-- Total number of stars on all your gists and repositories **`{{ STARS }}`**
-- Total number of stars on all your gists and repositories **`{{ STARS }}`**
-
 
 > Stats are populated by [Profile Stats Github Action](https://github.com/marketplace/actions/profile-readme-stats).
 
