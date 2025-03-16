@@ -3,8 +3,8 @@ I am a passionate Frontend engineer who cares about cutting-edge tech and smart 
 
 I follow conferences like [React Conf](https://conf.react.dev/), [React Miami](https://www.reactmiami.com/), and [Vercel Ship](https://vercel.com/ship) among others.
 
--   ⚡ I excel at selecting and integrating cutting-edge technologies to enhance product performance.
--   🌍 I’m looking to collaborate on interesting and passionate projects aimed at helping people.
+-   ⚡ I excel at selecting and integrating cutting-edge technologies to enhance product performance
+-   🌍 I’m looking to collaborate on interesting and passionate projects aimed at helping people
 -   💬 Feel free to ask me anything 🙂
 -   😄 Pronouns: **D I M A**
 -   🪐 Fun fact: Interestingly, there is also a lot of oxygen on Venus and Mars, which is perhaps not surprising since they are the closest planets to Earth and probably formed under similar conditions. However, most of the oxygen there is in the form of carbon dioxide.
