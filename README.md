@@ -12,7 +12,7 @@ I follow conferences like [React Conf](https://conf.react.dev/), [React Miami](h
 ## 🤟🏼 My Github Activity
 
 -   Joined Github **`9`** years ago
--   Pushed **`1637`** commits
+-   Pushed **`1639`** commits
 -   Opened **`41`** issues
 -   Submitted **`84`** pull requests
 -   Received **`2`** stars
@@ -54,7 +54,7 @@ I follow conferences like [React Conf](https://conf.react.dev/), [React Miami](h
 ![Git](https://img.shields.io/badge/-Git-white?style=flat&logo=git)
 ![iterm2](https://img.shields.io/badge/-iterm2-black?style=flat&logo=iterm2)
 
-### ai
+### AI
 
 ![Perplexity](https://img.shields.io/badge/-Perplexity-161619?style=flat&logo=perplexity)
 ![Claude](https://img.shields.io/badge/-Claude-161619?style=flat&logo=claude)
@@ -67,8 +67,9 @@ I follow conferences like [React Conf](https://conf.react.dev/), [React Miami](h
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
 ![Radix UI](https://img.shields.io/badge/-Radix_UI-white?style=flat&logo=radixui&logoColor=161618)
 ![Headless UI](https://img.shields.io/badge/-Headless_UI-161619?style=flat&logo=headlessui)
+![chadcn/ui](https://img.shields.io/badge/-chadcn/ui-white?style=flat&logo=shadcnui)
 
-###### ORM, Database, CMS
+### ORM, Database, CMS
 
 ![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat&logo=prisma)
 ![Drizzle](https://img.shields.io/badge/-Drizzle-black?style=flat&logo=drizzle)
@@ -78,15 +79,15 @@ I follow conferences like [React Conf](https://conf.react.dev/), [React Miami](h
 ![Contentful](https://img.shields.io/badge/-Contentful-white?style=flat&logo=contentful)
 ![Strapi](https://img.shields.io/badge/-Strapi-white?style=flat&logo=strapi&logoColor=8c4bff)
 
-###### Transport
+### IO
 
-![react-query](https://img.shields.io/badge/-React%20Query-E10098?style=flat&logo=reactquery)
+![react-query](https://img.shields.io/badge/-React_Query-161619?style=flat&logo=reactquery)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql)
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat&logo=apollo-graphql)
 ![express](https://img.shields.io/badge/-express-white?style=flat&logo=express&logoColor=black)
 ![JWT](https://img.shields.io/badge/-JWT-black?style=flat&logo=jsonwebtokens)
 
-###### Hosting and deployment
+### Hosting and deployment
 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel)
