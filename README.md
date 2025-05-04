@@ -12,9 +12,9 @@ I follow conferences like [React Conf](https://conf.react.dev/), [React Miami](h
 ## 🤟🏼 My Github Activity
 
 -   Joined Github **`9`** years ago
--   Pushed **`1873`** commits
+-   Pushed **`1778`** commits
 -   Opened **`41`** issues
--   Submitted **`94`** pull requests
+-   Submitted **`93`** pull requests
 -   Received **`2`** stars
 -   Own **`8`** repositories
 -   Contributed to **`1`** public repositories
