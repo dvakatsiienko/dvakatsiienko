@@ -11,8 +11,8 @@ I follow conferences like [React Conf](https://conf.react.dev/), [React Miami](h
 
 ## 🤟🏼 My Github Activity
 
--   Joined Github **`9`** years ago
--   Pushed **`2260`** commits
+-   Joined Github **`10`** years ago
+-   Pushed **`2261`** commits
 -   Opened **`42`** issues
 -   Submitted **`95`** pull requests
 -   Received **`2`** stars
