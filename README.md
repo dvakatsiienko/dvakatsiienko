@@ -12,12 +12,12 @@ I follow conferences like [React Conf](https://conf.react.dev/), [React Miami](h
 ## 🤟🏼 My Github Activity
 
 -   Joined Github **`10`** years ago
--   Pushed **`4498`** commits
--   Opened **`95`** issues
--   Submitted **`119`** pull requests
+-   Pushed **`4658`** commits
+-   Opened **`99`** issues
+-   Submitted **`120`** pull requests
 -   Received **`2`** stars
 -   Own **`8`** repositories
--   Contributed to **`7`** public repositories
+-   Contributed to **`11`** public repositories
 
 > Stats are populated by [Profile Stats Github Action](https://github.com/marketplace/actions/profile-readme-stats).
 
