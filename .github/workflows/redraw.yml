@@ -20,6 +20,8 @@ jobs:
       - uses: actions/setup-node@v7
         with:
           node-version: 24
+      - name: take the hero and the tour tiles from frame
+        run: cp frame/brand/profile/out/readme/assets/hero-*.svg frame/brand/profile/out/readme/assets/tour-*.svg assets/
       - name: draw the board and the cards
         run: node frame/brand/profile/redraw.ts --fetch --data assets/fleet.json --out assets
         env:
