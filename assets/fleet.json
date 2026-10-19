@@ -1,23 +1,23 @@
 {
-    "redrawn": "2026-10-12",
-    "agentCommits": 637,
-    "lastTicket": "FRM-396",
-    "ticketsClosed": 49,
-    "ticketsPlanned": 66,
+    "redrawn": "2026-10-19",
+    "agentCommits": 314,
+    "lastTicket": "FRM-297",
+    "ticketsClosed": 5,
+    "ticketsPlanned": 0,
     "reviewer": "5 prs · 3 findings",
     "verifier": "4 rounds · 1 finding",
-    "skills": 32,
+    "skills": 33,
     "langs": [
-        ["typescript", 74.6],
-        ["go", 13.5],
-        ["shell", 3.3],
-        ["python", 2.9],
-        ["swift", 2.3]
+        ["typescript", 76.6],
+        ["go", 11.9],
+        ["shell", 3.2],
+        ["python", 2.8],
+        ["swift", 2.1]
     ],
     "lazy": [
         ["morning", 74],
-        ["daytime", 1149],
-        ["evening", 1322],
-        ["night", 194]
+        ["daytime", 1276],
+        ["evening", 1543],
+        ["night", 210]
     ]
 }
